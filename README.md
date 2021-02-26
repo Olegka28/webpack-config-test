@@ -2,6 +2,9 @@
 
 Test project config for Webpack 5.
 ## Available Scripts
+Before run project 
+
+### `npm install`
 
 In the project directory, you can run:
 
